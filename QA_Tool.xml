@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Project>
+    <Name>project7</Name>
+    <Query>
+      <Title>query7.1</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+    <Query>
+      <Title>query7.2</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+    <Query>
+      <Title>query7.3</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+  </Project>
+  <Project>
+    <Name>Project1</Name>
+    <Query>
+      <Title>Query1.1</Title>
+      <SQL>Select * from table1</SQL>
+    </Query>
+    <Query>
+      <Title>query1.2</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+    <Query>
+      <Title>query1.3</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+    <Query>
+      <Title>query1.4</Title>
+      <SQL>select * from table1</SQL>
+    </Query>
+  </Project>
+  <Project>
+    <Name>a</Name>
+  </Project>
+</root>
